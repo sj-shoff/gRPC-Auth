@@ -48,7 +48,7 @@
 
     *   Клонируйте репозиторий с proto файлами:
         ```bash
-        git clone https://github.com/sj-shoff/protos
+        git clone https://github.com/sj-shoff/protos.git
         ```
     *   Убедитесь, что сгенерированный код доступен в вашем проекте `sso`. Необходимо настроить импорты.
 
